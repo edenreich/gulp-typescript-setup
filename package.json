@@ -1,0 +1,29 @@
+{
+  "name": "gulp-typescript-setup",
+  "version": "1.0.0",
+  "description": "A quick setup with browserified typescript using gulp.",
+  "main": "index.js",
+  "scripts": {
+    "watch": "gulp watch-pull",
+    "dev": "gulp build-typescript-dev",
+    "prod": "gulp build-typescript-prod"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^10.9.4",
+    "browser-sync": "^2.24.7",
+    "browserify": "^16.2.2",
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "tsify": "^4.0.0",
+    "typescript": "^3.0.3",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}

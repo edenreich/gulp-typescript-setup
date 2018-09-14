@@ -1,0 +1,10 @@
+{
+    "files": [
+        "src/App.ts"
+    ],
+    "compilerOptions": {
+        "noImplicitAny": false,
+        "target": "es5",
+        "moduleResolution": "node"
+    }
+}
