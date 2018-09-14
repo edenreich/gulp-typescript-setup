@@ -1,4 +1,4 @@
-<p align="center"><img src="https://drive.google.com/uc?export=view&id=1lmxqXfjO_yrAkRFXPoSLkt7bFkojMsnQ" width="300" height="350"></p>
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1lmxqXfjO_yrAkRFXPoSLkt7bFkojMsnQ"></p>
 
 # Typescript-Gulp-Browserify
 
