@@ -1,7 +1,6 @@
 import { Dependency } from './Dependency';
 import * as axios from 'axios';
 
-
 export class App extends Dependency
 {
     constructor()
