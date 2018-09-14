@@ -6,19 +6,24 @@ Typescript setup for client using gulp with browserify.
 
 ## Usage
 
+First run:
+```sh
+npm install
+```
+
 To launch a dev server with the bundle injected.
 ```sh
-gulp watch
+npm run watch
 ```
 
 To create a bundle with sourcemaps:
 ```sh
-gulp dev
+npm run dev
 ```
 
-To minfy the bundle:
+To create an optimized bundle for production:
 ```sh
-gulp prod
+npm run prod
 ```
 
 To change source or output directory simply open gulp.js file and change the variable src or outdir.
